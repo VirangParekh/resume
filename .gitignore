@@ -1,0 +1,7 @@
+*.aux
+*.fdb_*
+*.fls
+*.log
+*.out
+*.sync*
+contents/**/*.pdf
