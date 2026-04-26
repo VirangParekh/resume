@@ -1,0 +1,1 @@
+awk '/\.sty/ {sub(/\.sty/, "", $1); print $1}' resume.log > packages.txt
